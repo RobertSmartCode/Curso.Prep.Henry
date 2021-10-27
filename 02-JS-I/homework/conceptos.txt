@@ -1,0 +1,5 @@
+Variable: Es una forma de almacenar el valor de algo para usar más tarde
+Strings: Son Palabras que están entre comillas
+Funciones: Son métodos que le introduces valores (Argumentos = Variables ó Contsantes) hacen una o varias acciones sobre ellos y te devuelve un return = resultado.
+If es un sí condicional intriduces un argumento que tienes un resultado binario verdadero o falso. Si es verdadero ejecuta una acción en caso contrario (else) es decir es falso toma otra acción usualmente opuesta a la primera acción.
+Se se ejecuta un método sobre unos datos y estos arrojan un resultado binario verdaderon o falso. 
