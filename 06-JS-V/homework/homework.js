@@ -69,10 +69,12 @@ function agregarStringInvertida() {
 }
 Persona.prototype.detalle = function() {
    
-    // nombre: this.nombre,
-    // apellido: this.apellido,
-    // edad: this.edad,
-    // domicilio: this.domicilio
+     return{
+     nombre: this.nombre,
+     apellido: this.apellido,
+     edad: this.edad,
+     domicilio: this.domicilio
+     }
     
 };
 
